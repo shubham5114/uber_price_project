@@ -1,0 +1,9 @@
+pandas 
+numpy
+matplotlib
+geopy
+streamlit
+pydeck
+streamlit_lottie
+scikit-learn
+pickle4
